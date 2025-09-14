@@ -2,6 +2,7 @@
   td,th{
 	border:1px solid #ccc; 
 	border-radius:5px;
+	padding: 8px; 
   }
 thead tr{
 	background:#f2f2f2;

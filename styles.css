@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+  td,th{
+	border:1px solid #ccc; 
+	border-radius:5px;
+  }
+thead tr{
+	background:#f2f2f2;
+}
+tbody tr:nth-child(even){
+	background:#f2f2f2;
+}
+tbody tr:nth-child(odd){
+	background:#ffffff;
+}
